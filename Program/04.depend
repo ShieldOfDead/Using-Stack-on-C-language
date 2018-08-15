@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1528311509 source:c:\users\yuri 4480\desktop\prova\04\main.c
+	"intStack.h"
+
+1528309867 c:\users\yuri 4480\desktop\prova\04\intstack.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
+1528308097 source:c:\users\yuri willians\desktop\yuri willians dos santos\04\main.c
+	"intStack.h"
+
+1528306267 c:\users\yuri willians\desktop\yuri willians dos santos\04\intstack.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
